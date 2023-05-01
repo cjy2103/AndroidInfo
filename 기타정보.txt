@@ -51,6 +51,7 @@ RecyclerView MVVM(DataBinding) 에서 Adapter는 어디에 위치해야 하는�
 
 onTrimMemory ( v )
 
+안드로이드(Android) - BuildConfig 클래스를 찾을 수 없습니다. ( v )
 
 ================ 개발자 콘솔 관련 ==============
 구글출시 정보 / Android 13 API 33 광고 ID ( v )
