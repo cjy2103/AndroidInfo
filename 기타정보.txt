@@ -1,0 +1,57 @@
+
+=== 기타 정보 ====
+
+BottomNavigation 아이콘 안보이는 이슈 ( v )
+
+SHA-1 서명키 확인 ( v )
+
+startActivityForResult deprecated ( v )
+
+안드로이드 개발언어 선택 Java/ Kotlin ( v )
+
+XML 특수문자 출력 ( v )
+
+TextUtils.isEmpty(str) ( v )
+
+DB Inspector ( v )
+
+DB 문자열 숫자 정렬 ( v )
+
+animation 관련 내용 
+
+DCLP(Double Checked Locking Pattern)? ( v )
+
+Resource Id DB 그대로 저장시 생기는 문제 -> 개선 ( v )
+
+Object 타입 -> Map 변환 ( v )
+
+안드로이드 돌핀 릴리즈 ( v )
+
+안드로이드 일렉트릭 엘 릴리즈  ( v )
+
+xml Left, Rigth 대신 Start, End 써야하는 이유 ( v )
+
+안드로이드 OS13 이후 광고 ID 관련 문제 ( v )
+
+string.xml (다국어 설정) ( v )
+
+Activity vs AppCompatActivity ( v )
+Activity, AppCompatActivity 차이 ( v )
+
+BindingAdapter Multi Parameter (다중 파라미터, 파라미터 여러개) ( v )
+
+OS14 프리뷰 포스팅 ( v )
+
+Opacity 하위뷰 이벤트 관련 포스팅 ( v )
+
+Kotlin BindingAdapter 사용법 ( v )
+HttpClient? / Apahce HttpClient 더이상 사용하지 않는 이유 ( v )
+
+RecyclerView MVVM(DataBinding) 에서 Adapter는 어디에 위치해야 하는가? ( v )
+
+onTrimMemory ( v )
+
+
+================ 개발자 콘솔 관련 ==============
+구글출시 정보 / Android 13 API 33 광고 ID ( v )
+구글 출시 콘솔 play-services-safetynet 관련 경고 ( v )
