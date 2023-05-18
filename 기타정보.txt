@@ -61,6 +61,8 @@ onTrimMemory ( v )
 
 안드로이드(Android) 입문자들 이슈 - XML 파일이 없어요 ( v )
 
+프로가드? ( v )
+
 ================ 개발자 콘솔 관련 ==============
 구글출시 정보 / Android 13 API 33 광고 ID ( v )
 구글 출시 콘솔 play-services-safetynet 관련 경고 ( v )
