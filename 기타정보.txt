@@ -67,6 +67,8 @@ JetPack? ( v )
 
 AAC? ( v )
 
+컴포즈 ( v )
+
 ================ 개발자 콘솔 관련 ==============
 구글출시 정보 / Android 13 API 33 광고 ID ( v )
 구글 출시 콘솔 play-services-safetynet 관련 경고 ( v )
