@@ -69,6 +69,10 @@ AAC? ( v )
 
 컴포즈 ( v )
 
+안드로이드(Android) Design - 이미지 뷰(ImageView) 이미지 강제로 늘리기 / scaleType ( v )
+
+
+
 ================ 개발자 콘솔 관련 ==============
 구글출시 정보 / Android 13 API 33 광고 ID ( v )
 구글 출시 콘솔 play-services-safetynet 관련 경고 ( v )
