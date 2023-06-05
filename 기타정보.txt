@@ -69,7 +69,11 @@ AAC? ( v )
 
 컴포즈 ( v )
 
+
 안드로이드(Android) 기타 정보 - 안드로이드 메인 함수 / 안드로이드의 메인 함수는 어디에 있는가? ( v )
+
+안드로이드(Android) Design - 이미지 뷰(ImageView) 이미지 강제로 늘리기 / scaleType ( v )
+
 
 
 
