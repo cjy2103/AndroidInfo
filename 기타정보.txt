@@ -74,7 +74,7 @@ AAC? ( v )
 
 안드로이드(Android) Design - 이미지 뷰(ImageView) 이미지 강제로 늘리기 / scaleType ( v )
 
-
+안드로이드(Android) 기타 정보 - Seekbar 디폴트 마진 없애기 / Seekbar 갭(여백) 없애기 ( v )
 
 
 ================ 개발자 콘솔 관련 ==============
