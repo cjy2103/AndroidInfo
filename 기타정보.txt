@@ -88,6 +88,8 @@ AAC? ( v )
 
 안드로이드(Android) OS14 출시 전 인앱결제 바뀌는 점 ( v )
 
+안드로이드(Android) 입문/이론 - SAA (Single Activity Architecture)란? ( v )
+
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
 
