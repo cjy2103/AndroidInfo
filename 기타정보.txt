@@ -90,6 +90,8 @@ AAC? ( v )
 
 안드로이드(Android) 입문/이론 - SAA (Single Activity Architecture)란? ( v )
 
+안드로이드(Android) 기타 정보 - FragmentContainerView란? / 사용해야 하는 이유 ( v )
+
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
 
