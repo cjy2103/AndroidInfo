@@ -53,3 +53,5 @@ BLE 오류 - java.io.IOException: read failed, socket might closed or timeout, r
 안드로이드(Android) - 오류 Caused by: java.lang.IllegalStateException does not have a NavController ( v )
 
 안드로이드(Android) 오류 - MVVMNewsApp ava.lang.RuntimeException: Unable to start activity ComponentInfo ( v )
+
+안드로이드(Android) 오류 - Gradle 8.1.0 이상으로 업데이트 시 enableUncompressedNativeLibs 관련 문제 / NDK 문제 ( v )
