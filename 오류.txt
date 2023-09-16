@@ -1,4 +1,3 @@
-
 ======= 오류 =======
 안드로이드(Android) 오류 / 파일 관련 -FileNotFoundException open failed: EPERM (Operation not permitted) ( v )
 
@@ -55,3 +54,5 @@ BLE 오류 - java.io.IOException: read failed, socket might closed or timeout, r
 안드로이드(Android) 오류 - MVVMNewsApp ava.lang.RuntimeException: Unable to start activity ComponentInfo ( v )
 
 안드로이드(Android) 오류 - Gradle 8.1.0 이상으로 업데이트 시 enableUncompressedNativeLibs 관련 문제 / NDK 문제 ( v )
+
+안드로이드(Android) 오류 - Facebook 로그인 콜백 안타는 오류
