@@ -98,6 +98,8 @@ AAC? ( v )
 
 안드로이드(Android) 기타 정보 - BLE란?
 
+﻿안드로이드(Android) 기타정보 - Gradle 8.0 AGP 8.0 R8 프로가드 충돌문제 / 기존 프로젝트 Gradle8.0 이상으로 올리지 마세요.
+
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
 
