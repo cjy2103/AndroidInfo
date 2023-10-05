@@ -94,7 +94,8 @@ AAC? ( v )
 
 안드로이드(Android) 기타 정보 - Retrofit Json 통신할 때 @SerializedName 어노테이션은 필수인가요? ( v )
 
-안드로이드(Android) 기타 정보 - BLE ESP32 통신 연결 안되는 문제
+안드로이드(Android) 기타 정보 - BLE ESP32 통신 연결 안 되는 문제 / BLE 흐름 ( v )
+
 
 안드로이드 이론 Bluetooth(BLE, Classic)이란? (Bluetooth Low Energy / Bluetooth Classic) ( v )
 
