@@ -111,7 +111,7 @@ AAC? ( v )
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
 
-Android(안드로이드) - ImageButton 회색배경 없애기 / 투명하게 ( )
+Android(안드로이드) - ImageButton 회색배경 없애기 / 투명하게 ( v )
 
 
 
