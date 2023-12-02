@@ -62,3 +62,5 @@ BLE 오류 - java.io.IOException: read failed, socket might closed or timeout, r
 안드로이드(Android) 오류 - 테스트 전용 APK 또는 Android App Bundle은 업로드할 수 없습니다. ( v )
 
 안드로이드(Android) 오류 - java.lang.RuntimeException: Could not deserialize object. Class / Parcelable 오류 ( v )
+
+안드로이드(Android) 오류 - R을 Import 했는데 리소스 파일(이미지 파일)이 호출이 안됩니다. ( v )
