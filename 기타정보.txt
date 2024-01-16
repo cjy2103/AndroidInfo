@@ -110,7 +110,7 @@ AAC? ( v )
 
 Android(안드로이드) - Kapt에서 KSP로 마이그레이션 ( v )
 
-
+안드로이드(Android) 기타 정보 - AIDL Messenger 차이 / AIDL vs Messenger ( v )
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
