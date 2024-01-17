@@ -112,7 +112,7 @@ Android(안드로이드) - Kapt에서 KSP로 마이그레이션 ( v )
 
 안드로이드(Android) 기타 정보 - AIDL Messenger 차이 / AIDL vs Messenger ( v )
 
-안드로이드(Android) 기타 정보 - 각 생명주기에서 super() 로 부모 메서드를 호출하지 않으면 어떻게 되는가? ( )
+안드로이드(Android) 기타 정보 - 각 생명주기에서 super() 로 부모 메서드를 호출하지 않으면 어떻게 되는가? ( v )
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
