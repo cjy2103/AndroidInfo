@@ -120,6 +120,8 @@ Android(안드로이드) - Kapt에서 KSP로 마이그레이션 ( v )
 
 안드로이드 스튜디오(Android Studio) HedgeHog(고슴도치)가 릴리스되었습니다. ( v )
 
+안드로이드(Android) - 앱 강제 종료 시 재시작 ( v )
+
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
