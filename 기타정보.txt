@@ -125,6 +125,7 @@ Android(안드로이드) - Kapt에서 KSP로 마이그레이션 ( v )
 
 안드로이드(Android) - Android Studio(안드로이드 스튜디오) 신규 UI 적용하기 ( v )
 
+안드로이드(Android) - OS12 Splash Screen 삭제/무시(투명화)  / OS Splash Screen 배경색 변경 ( v )
 
 
 =================== 디자인 =================
