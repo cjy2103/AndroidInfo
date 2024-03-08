@@ -127,6 +127,7 @@ Android(안드로이드) - Kapt에서 KSP로 마이그레이션 ( v )
 
 안드로이드(Android) - OS12 Splash Screen 삭제/무시(투명화)  / OS Splash Screen 배경색 변경 ( v )
 
+Android(안드로이드) - OptIn 어노테이션(Annotation) 뜻 ( v )
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
