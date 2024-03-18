@@ -131,6 +131,8 @@ Android(안드로이드) - OptIn 어노테이션(Annotation) 뜻 ( v )
 
 안드로이드 스튜디오(Android Studio) Iguana(이구아나)가 릴리스되었습니다. ( v )
 
+안드로이드(Android) - 구글피셜 DataBinding은 더 이상 사용이 권장되지 않습니다 / maintenance mode 전환 ( v )
+
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
