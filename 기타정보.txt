@@ -137,6 +137,10 @@ Android(안드로이드) - OptIn 어노테이션(Annotation) 뜻 ( v )
 
 안드로이드(Android) - 버전 카탈로그 양식 사용하기 / libs.version.toml(Version Catalog) ( v )
 
+안드로이드(Android) - Glaxy Watch 개발자 옵션 활성화하기 ( v )
+
+
+
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
 
