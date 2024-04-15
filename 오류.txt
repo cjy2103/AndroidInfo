@@ -74,5 +74,6 @@ BLE 오류 - java.io.IOException: read failed, socket might closed or timeout, r
 
 안드로이드(Android) 오류 - Failed to connect to localhost/127.0.0.1 ( v )
 
+안드로이드 오류 - adb : 'adb' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다. ( v )
 
 
