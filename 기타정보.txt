@@ -138,6 +138,9 @@ Android(안드로이드) - OptIn 어노테이션(Annotation) 뜻 ( v )
 
 안드로이드(Android) - 앱내에서 커스텀으로 Wifi 직접 연결의 한계 ( v )
 
+안드로이드 스튜디오(Android Studio) JellyFish(해파리)가 릴리스되었습니다. ( v )
+
+
 
 =================== 디자인 =================
 안드로이드(Android) Design - Selector ( v )
